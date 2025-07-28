@@ -1,4 +1,4 @@
-# 3-DOF Robotic Arm Toolkit
+# 3-DOF Robotic Arm Inverse and forward/inverse kinematics Toolkit
 
 ![Robotic Arm Diagram](robotic_arm_diagram.png)
 
