@@ -1,6 +1,6 @@
 # 3-DOF Robotic Arm Inverse and forward/inverse kinematics Toolkit
 
-![Robotic Arm Diagram](robotic_arm_diagram.png)
+![Robotic Arm Diagram](3DOF.png)
 
 A comprehensive Python toolkit for simulating and controlling a 3-degree-of-freedom robotic arm with interactive visualization and inverse kinematics solving.
 
