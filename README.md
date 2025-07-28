@@ -1,4 +1,3 @@
-# 3-DOF-Robotic-Arm-Toolkit
 # 3-DOF Robotic Arm Toolkit
 
 ![Robotic Arm Diagram](robotic_arm_diagram.png)
